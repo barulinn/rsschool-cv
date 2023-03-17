@@ -9,7 +9,9 @@ I am 25 years old person who was working in the bank for 6 years but after world
 I decided that the most progress way for me will be to start learning how to code and I chose *JS*.\
 \
 ###Skills:\
-JavaScript(Basic)
+HTML, CSS (Basic)\
+JavaScript(Basic)\
+
 
 
 
