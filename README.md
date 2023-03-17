@@ -1,1 +1,1 @@
-# rsschool-cv
+https://barulinn.github.io/rsschool-cv/cv
