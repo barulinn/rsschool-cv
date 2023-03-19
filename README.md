@@ -1,1 +1,1 @@
-https://barulinn.github.io/rsschool-cv/cv
+https://github.com/barulinn/rsschool-cv/blob/gh-pages/cv.md
