@@ -1,5 +1,5 @@
 ## Nikita Barulin
-**### Junior Frontend Developer**
+### Junior Frontend Developer
 ### Contact information:
 #### Phone: +905355751835
 #### Email: *nbarulin@yandex.ru*
